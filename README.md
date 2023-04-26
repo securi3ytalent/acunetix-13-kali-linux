@@ -35,12 +35,12 @@ Acunetix is an end-to-end web security scanner that offers a 360 view of an orga
 5. Run command in terminal
 
 ```bash
-   sudo /home/acunetix/.acunetix/v_200217097/scanner/
+   sudo wvsc cp home/acunetix/.acunetix/v_200217097/scanner/
 ```
 6. Run command in terminal
 
 ```bash
-   sudo cp license_info.json /home/acunetix/.acunetix/data/license/
+   sudo icense_info.json cp /home/acunetix/.acunetix/data/license/
 ```
 7. acunetix status check
 
