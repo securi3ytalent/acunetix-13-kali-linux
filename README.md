@@ -62,7 +62,7 @@ https://127.0.0.1:3443/
 ```bash
 service acunetix stop 
 ```
-[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")
+[<img src="https://github.com/devmehedi101/acunetix-13-kali-linux/blob/main/devmehedi101.gif" width="50%">](https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")
 
 # 🚀 Follow us___
 1. https://www.facebook.com/devmehedi101
