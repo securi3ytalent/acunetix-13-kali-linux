@@ -30,7 +30,7 @@ Acunetix is an end-to-end web security scanner that offers a 360 view of an orga
 4. Run command in terminal
 
 ```bash
-    sudo bash ./Acunetix_13.0.200217097_x64.sh
+sudo bash ./acunetix_13.0.200217097_x64_.sh
 ```
 5. Run command in terminal
 
