@@ -62,11 +62,11 @@ https://127.0.0.1:3443/
 service acunetix stop 
 ```
 
-$${\color{red}Haw to acunetix-13 \space \color{lightblue}install in \space \color{orange}kali linux watch Me}$$
+
   
 [<img src="https://github.com/devmehedi101/acunetix-13-kali-linux/blob/main/devmehedi101.gif" width="50%">](https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")
 
-
+$${\color{red}Haw to acunetix-13 \space \color{lightblue}install in \space \color{orange}kali linux watch Me}$$
 
 # 🚀 Follow us___
 1. https://www.facebook.com/devmehedi101
