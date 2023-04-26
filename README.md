@@ -3,7 +3,6 @@
 
 Acunetix is an end-to-end web security scanner that offers a 360 view of an organization's security.
 
-$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
 
 ## acunetix-13 Downloads Now:
 
@@ -61,8 +60,9 @@ https://127.0.0.1:3443/
 
 ```bash
 service acunetix stop 
-```
-## Haw to acunetix-13 install in kali linux watch Me:
+
+`## $${\color{red}Haw to acunetix-13 \space \color{lightblue}install in \space \color{orange}kali linux watch Me}$$
+  
 [<img src="https://github.com/devmehedi101/acunetix-13-kali-linux/blob/main/devmehedi101.gif" width="50%">](https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")
 
 
