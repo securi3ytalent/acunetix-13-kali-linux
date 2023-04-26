@@ -47,15 +47,20 @@ sudo cp license_info.json /home/acunetix/.acunetix/data/license/
 ```bash
 service acunetix status 
 ```
-8. acunetix stop
-
-```bash
-service acunetix stop 
-```
-7. acunetix service run
+8. acunetix service run
 
 ```bash
 service acunetix start
+```
+9. open the urls in the browser
+
+```bash
+https://127.0.0.1:3443/
+```
+10. acunetix stop
+
+```bash
+service acunetix stop 
 ```
 
 # 🚀 Follow us___
