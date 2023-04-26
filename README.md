@@ -63,8 +63,7 @@ https://127.0.0.1:3443/
 service acunetix stop 
 ```
 
-[ width="50%">](https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")
-
+[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=VID)
 # 🚀 Follow us___
 1. https://www.facebook.com/devmehedi101
 2. https://www.linkedin.com/company/securitytalent   
