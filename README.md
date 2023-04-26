@@ -66,7 +66,7 @@ service acunetix stop
 
 $${\color{red}Haw\space to \space acunetix-13 \space \color{lightblue}install \space in \space \color{orange}kali \space linux \space watch \space Me}$$
 
-[<img src="https://github.com/devmehedi101/acunetix-13-kali-linux/blob/main/devmehedi101.gif" width="50%">](https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")
+[<img src="https://github.com/devmehedi101/acunetix-13-kali-linux/blob/main/devmehedi101.gif" width="50%">](https://youtu.be/arV4CdSHIa4 "Now in Android: 55")
 
 
 
