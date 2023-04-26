@@ -14,18 +14,18 @@ Acunetix is an end-to-end web security scanner that offers a 360 view of an orga
 1. open the downloads directory
 
 ```bash
-  cd Downloads
+cd Downloads
 ```
 
 2. open the Acunetix_13 directory then
 ```bash
-  cd Acunetix_13
+cd Acunetix_13
 ```
 
 3. Need to file permutation
 
 ```bash
-    chmod +x *
+chmod +x *
 ```
 4. Run command in terminal
 
@@ -45,17 +45,17 @@ sudo cp license_info.json /home/acunetix/.acunetix/data/license/
 7. acunetix status check
 
 ```bash
-   service acunetix status 
+service acunetix status 
 ```
 8. acunetix stop
 
 ```bash
-   service acunetix stop 
+service acunetix stop 
 ```
 7. acunetix service run
 
 ```bash
-   service acunetix start
+service acunetix start
 ```
 
 # 🚀 Follow us___
