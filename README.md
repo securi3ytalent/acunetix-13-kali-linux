@@ -65,7 +65,7 @@ service acunetix stop
 ## Haw to acunetix-13 install in kali linux watch Me:
 [<img src="https://github.com/devmehedi101/acunetix-13-kali-linux/blob/main/devmehedi101.gif" width="50%">](https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")
 
-<span style="color:orange;">Word up</span>
+![#f03c15]
 
 # 🚀 Follow us___
 1. https://www.facebook.com/devmehedi101
