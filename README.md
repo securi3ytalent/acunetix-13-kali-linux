@@ -40,7 +40,7 @@ sudo cp wvsc /home/acunetix/.acunetix/v_200217097/scanner/
 6. Run command in terminal
 
 ```bash
-   sudo icense_info.json cp /home/acunetix/.acunetix/data/license/
+sudo cp license_info.json /home/acunetix/.acunetix/data/license/
 ```
 7. acunetix status check
 
