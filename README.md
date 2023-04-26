@@ -62,6 +62,7 @@ https://127.0.0.1:3443/
 ```bash
 service acunetix stop 
 ```
+## Haw to acunetix-13 install in kali linux watch Me:
 [<img src="https://github.com/devmehedi101/acunetix-13-kali-linux/blob/main/devmehedi101.gif" width="50%">](https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")
 
 # 🚀 Follow us___
